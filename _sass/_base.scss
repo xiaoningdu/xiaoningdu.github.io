@@ -62,11 +62,16 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    Font-size: 0.85rem;
     p {
       display: inline-block;
       margin: 0;
     }
   }
+}
+
+div .clearfix{
+  Text-align: justify;
 }
 
 @media (min-width: 576px) {
@@ -205,6 +210,11 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
+}
+
+.news table .announcement {
+  width: 85%;
+  Text-align: justify;
 }
 
 // Social (bottom)
@@ -393,7 +403,7 @@ footer.sticky-bottom {
       font-size: 1.5rem;
     }
   }
-  h2.year {
+  h3.year {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
