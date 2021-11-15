@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #267326; --global-hover-color: #267326; --global-footer-bg-color: #1C1C1D; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #34343c; --global-text-color-light: #828282; --global-text-color-dark: #000000; --global-theme-color: #097a09; --global-hover-color: #097a09; --global-footer-bg-color: #1C1C1D; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; --global-divider-color: rgba(0,0,0,.1); }
 
 :root .fa-sun { display: none; }
 
@@ -35,6 +35,8 @@ a, table.table a { color: var(--global-theme-color); }
 a:hover, table.table a:hover { color: var(--global-theme-color); text-decoration: underline; }
 
 a:hover:after :not(.nav-item.dropdown), table.table a:hover:after :not(.nav-item.dropdown) { width: 100%; }
+
+body { Font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif; Font-size: 0.92rem; }
 
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
@@ -106,7 +108,7 @@ div .clearfix { Text-align: justify; }
 
 .navbar-toggler.collapsed .bottom-bar { transform: rotate(0); }
 
-.news table td { font-size: 1rem; color: var(--global-text-color); }
+.news table td { font-size: 0.92rem; color: var(--global-text-color); }
 
 .news table th { color: var(--global-text-color); }
 
@@ -198,7 +200,7 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .title { Font-family: 'Merriweather'; font-weight: bold; Font-size: 1.05rem; Color: var(--global-text-color-dark); }
 
 .publications ol.bibliography li .author a { border-bottom: 1px dashed var(--global-theme-color); }
 

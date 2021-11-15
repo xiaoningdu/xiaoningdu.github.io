@@ -23,6 +23,13 @@ a, table.table a {
   }
 }
 
+body{
+  Font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  Font-size:0.92rem;
+//  Font-family: 'Merriweather';
+  
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
@@ -204,7 +211,7 @@ div .clearfix{
 // News
 
 .news table td {
-  font-size: 1rem;
+  font-size: 0.92rem;
   color: var(--global-text-color);
 }
 
@@ -439,7 +446,11 @@ footer.sticky-bottom {
         }
       }
       .title {
-        font-weight: bolder;
+        Font-family: 'Merriweather';
+        font-weight: bold;
+        //Font-style: italic;
+        Font-size: 1.05rem;
+        Color: var(--global-text-color-dark)
       }
       .author {
         a {
