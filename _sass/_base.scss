@@ -478,6 +478,18 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
+       p.btn {
+          color: var(--global-highlight-color);
+          border: 1px solid var(--global-highlight-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: 0.25rem;
+          padding-bottom: 0.25rem;
+          &:hover {
+            color: var(--global-highlight-color);
+            border-color: var(--global-highlight-color);
+          }
+        }
       }
       .hidden {
         font-size: 0.875rem;
