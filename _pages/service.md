@@ -14,6 +14,8 @@ nav: true
 
 
 #### Program Committee
+* The 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)
+* The 46th International Conference on Software Engineering (ICSE 2024), Artifact Evaluation track
 * The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 * The 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023), Early Research Achievements (ERA) track
 * The 29th Asia-Pacific Software Engineering Conference (APSEC 2022) 

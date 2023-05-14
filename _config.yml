@@ -104,7 +104,16 @@ collections:
 #    output: false
 #    permalink: /projects/:path/
 
-news_limit: 50
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 50
+
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
+
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

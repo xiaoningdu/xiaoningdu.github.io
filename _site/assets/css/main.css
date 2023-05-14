@@ -112,7 +112,7 @@ div .clearfix { Text-align: justify; }
 
 .news table th { color: var(--global-text-color); }
 
-.news table .announcement { width: 85%; Text-align: justify; }
+.news table .announcement { width: 65%; Text-align: justify; }
 
 .social { text-align: center; }
 
