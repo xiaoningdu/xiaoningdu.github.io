@@ -134,6 +134,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .navbar-toggler.collapsed .bottom-bar { transform: rotate(0); }
 
+.table-responsive { margin-bottom: 18px; }
+
 .news table td { font-size: 0.92rem; }
 
 #light-toggle { padding: 0; border: 0; background-color: inherit; color: var(--global-text-color); }
