@@ -27,7 +27,7 @@ nav: true
 ##### Rearch track
 * The 47th International Conference on Software Engineering (ICSE 2025)
 * The 39th IEEE/ACM Automated Software Engineering Conference (ASE 2024)
-* THE Web Conference 2024 (formerly known as WWW)
+* The Web Conference 2024 (formerly known as WWW)
 * The 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)
 * The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
 * The 29th Asia-Pacific Software Engineering Conference (APSEC 2022)
