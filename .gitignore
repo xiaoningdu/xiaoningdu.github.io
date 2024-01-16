@@ -6,5 +6,6 @@
 .ruby-version
 .tweet-cache
 Gemfile.lock
+node_modules/
 vendor
 
