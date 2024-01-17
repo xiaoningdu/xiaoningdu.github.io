@@ -128,9 +128,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: # blog_name will be displayed in your blog page
+blog_description: # a simple whitespace theme for academics
+permalink: # /blog/:year/:title/
 
 # Pagination
 # pagination:
@@ -163,9 +163,9 @@ giscus:
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+#external_sources:
+#  - name: # medium.com
+#    rss_url: # https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -189,8 +189,8 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: # leave blank to include all the blog posts
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 6 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -213,12 +213,14 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _projects
-  - blog
+  - _pages/blog.md
   - _posts
   - _pages/cv
   - _pages/repositories
   - _pages/teaching.md
   - _pages/dropdown.md
+  - _pages/about_einstein.md
+  - _pages/profiles.md
   - _pages/projects.md
   - _news/example_1.md
   - _news/example_2.md
@@ -303,6 +305,7 @@ scholar:
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+  bibliography_group_tag: h3
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
@@ -320,8 +323,8 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, altmetric] # abbr, preview
@@ -385,7 +388,7 @@ enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  false   # enables categorization of projects into
                                    # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
+enable_medium_zoom:         false   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
 
