@@ -36,7 +36,7 @@ nav: true
 * The 27th Asia-Pacific Software Engineering Conference (APSEC 2020)
 
 ##### Other tracks
-* Joint International Workshop on Engineering and Cybersecurity  of Critical Systems (EnCyCriS) and Software Vulnerability Management (SVM) colocated with ICSE'23
+* Joint International Workshop on Engineering and Cybersecurity  of Critical Systems (EnCyCriS) and Software Vulnerability Management (SVM) colocated with ICSE'24
 * The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023), Artifact Evaluation track
 * The 32nd edition of the International Conference on Program Comprehension (ICPC 2024), Tool demo track
 * The 46th International Conference on Software Engineering (ICSE 2024), Artifact Evaluation track
