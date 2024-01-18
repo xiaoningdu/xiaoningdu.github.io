@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a lecturer (a.k.a. Assistant Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
 
-I obtained my Bachelor of Software Engineering degree from [Fudan University](https://www.fudan.edu.cn) in 2014, and I did my Ph.D. at [Nanyang Technological University](https://www.ntu.edu.sg/) from 2015 to 2020, under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+I obtained my Bachelor of Software Engineering degree from Fudan University in 2014, and I did my Ph.D. at [Nanyang Technological University](https://www.ntu.edu.sg/) from 2015 to 2020, under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 Prior to joining Monash, I worked as a postdoc research fellow at Nanyang Technological University, under the supervision of [Prof. Yi Li](https://personal.ntu.edu.sg/yi_li/).
 
 My research is mainly focused on the security and quality assurance of both traditional software and intelligent software with learning-based components, which covers but is not limited to software testing, program analysis, vulnerability detection, and runtime verification. Currently, I am quite interested in the DevOps of AI software systems, which aims to regulate the development and assessment process of AI-assisted solutions, support their post-deployment operation and guarantee trustworthy and sustainable AI services. Please check my publication list for more details.
