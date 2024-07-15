@@ -25,6 +25,7 @@ nav: true
 
 #### Program Committee
 ##### Rearch track
+* The 34th International Symposium on Software Testing and Analysis (ISSTA 2025)
 * The 47th International Conference on Software Engineering (ICSE 2025)
 * The 39th IEEE/ACM Automated Software Engineering Conference (ASE 2024)
 * The Web Conference 2024 (formerly known as WWW)
