@@ -25,9 +25,11 @@ nav: true
 
 #### Program Committee
 ##### Rearch track
+* Conference on Object-Oriented Programming Systems, Languages, and Applications 2025 (OOPSLA 2025)
 * The 34th International Symposium on Software Testing and Analysis (ISSTA 2025)
 * The 47th International Conference on Software Engineering (ICSE 2025)
 * The 39th IEEE/ACM Automated Software Engineering Conference (ASE 2024)
+* The 31st Asia-Pacific Software Engineering Conference (APSEC 2024)
 * The Web Conference 2024 (formerly known as WWW)
 * The 33rd International Symposium on Software Testing and Analysis (ISSTA 2024)
 * The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
@@ -37,6 +39,7 @@ nav: true
 * The 27th Asia-Pacific Software Engineering Conference (APSEC 2020)
 
 ##### Other tracks
+* The 1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis, colocated with CCS'24
 * The SEIP (Software Engineering in Practice) track of APSEC 2024
 * Joint International Workshop on Engineering and Cybersecurity  of Critical Systems (EnCyCriS) and Software Vulnerability Management (SVM) colocated with ICSE'24
 * The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023), Artifact Evaluation track
