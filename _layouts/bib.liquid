@@ -164,6 +164,9 @@
           {% if entry.demo %}
             <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {% endif %}
+          {% if entry.award %}
+            <p class="btn btn-sm z-depth-0" role="button">{{entry.award}}</p>
+          {% endif %}
           </div>
           {% if site.badges %}
           <div class="badges">
