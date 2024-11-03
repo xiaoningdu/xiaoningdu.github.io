@@ -8,6 +8,8 @@ nav: true
 nav_order: 2
 ---
 
+Below are the selected publications, check my [Google Scholarship](https://scholar.google.com.sg/citations?user=TtA9_B0AAAAJ&hl=en) for the full list.
+
 <!-- _pages/publications.md -->
 <div class="publications">
 

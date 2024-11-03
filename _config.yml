@@ -176,6 +176,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+#  awards:
+#    output: true
+#    permalink: /awards/:path/
 #  projects:
 #    output: false
 #    permalink: /projects/:path/

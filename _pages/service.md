@@ -18,6 +18,7 @@ nav: true
 
 
 #### Organization Committee
+* Co-Chair of the 4th Workshop of Adversarial Machine Learning on Computer Vision: Robustness of Foundation Models co-located with CVPR 2024
 * Publicity Co-Chair of 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
 * Co-Chair of the SCORE (Student Contest on Software Engineering) event at the 45th International Conference on Software Engineering (ICSE 2023)
 * Co-Chair of the Doctorial Symposium track at the 22nd International Conference on Formal Engineering Methods (ICFEM 2021)
@@ -39,6 +40,7 @@ nav: true
 * The 27th Asia-Pacific Software Engineering Conference (APSEC 2020)
 
 ##### Other tracks
+* The Early Research Achievement (ERA) Track of SANER 2025
 * The 1st ACM Workshop on Large AI Systems and Models with Privacy and Safety Analysis, colocated with CCS'24
 * The SEIP (Software Engineering in Practice) track of APSEC 2024
 * Joint International Workshop on Engineering and Cybersecurity  of Critical Systems (EnCyCriS) and Software Vulnerability Management (SVM) colocated with ICSE'24
