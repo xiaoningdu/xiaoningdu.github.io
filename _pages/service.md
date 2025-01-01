@@ -26,6 +26,7 @@ nav: true
 
 #### Program Committee
 ##### Rearch track
+* The 48th International Conference on Software Engineering (ICSE 2026)
 * Conference on Object-Oriented Programming Systems, Languages, and Applications 2025 (OOPSLA 2025)
 * The 34th International Symposium on Software Testing and Analysis (ISSTA 2025)
 * The 47th International Conference on Software Engineering (ICSE 2025)
