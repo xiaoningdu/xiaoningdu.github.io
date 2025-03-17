@@ -18,14 +18,17 @@ nav: true
 
 
 #### Organization Committee
+* Proceeding Co-Chair of 34th the International Conference on the Foundations of Software Engineering (FSE) 2026
+* Software Engineering in Practice Track Co-Chair of the 32nd Asia-Pacific Software Engineering Conference (APSEC) 2025
 * Co-Chair of the 4th Workshop of Adversarial Machine Learning on Computer Vision: Robustness of Foundation Models co-located with CVPR 2024
 * Publicity Co-Chair of 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
-* Co-Chair of the SCORE (Student Contest on Software Engineering) event at the 45th International Conference on Software Engineering (ICSE 2023)
-* Co-Chair of the Doctorial Symposium track at the 22nd International Conference on Formal Engineering Methods (ICFEM 2021)
+* SCORE (Student Contest on Software Engineering) Co-Chair of the 45th International Conference on Software Engineering (ICSE 2023)
+* Doctorial Symposium Co-Chair of the 22nd International Conference on Formal Engineering Methods (ICFEM 2021)
 
 
 #### Program Committee
 ##### Rearch track
+* The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 * The 48th International Conference on Software Engineering (ICSE 2026)
 * Conference on Object-Oriented Programming Systems, Languages, and Applications 2025 (OOPSLA 2025)
 * The 34th International Symposium on Software Testing and Analysis (ISSTA 2025)
