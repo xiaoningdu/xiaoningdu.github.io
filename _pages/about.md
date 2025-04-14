@@ -22,11 +22,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a lecturer (a.k.a. Assistant Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
+I obtained my Ph.D. degree from Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/), and received my Bachelor's degree from Fudan University.
 
-I obtained my Bachelor of Software Engineering degree from Fudan University in 2014, and I did my Ph.D. at [Nanyang Technological University](https://www.ntu.edu.sg/) from 2015 to 2020, under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
-Prior to joining Monash, I worked as a postdoc research fellow at Nanyang Technological University, under the supervision of [Prof. Yi Li](https://personal.ntu.edu.sg/yi_li/).
 
-My research is mainly focused on the security and quality assurance of both traditional software and intelligent software with learning-based components, which covers but is not limited to software testing, program analysis, vulnerability detection, and runtime verification. Currently, I am quite interested in the DevOps of AI software systems, which aims to regulate the development and assessment process of AI-assisted solutions, support their post-deployment operation and guarantee trustworthy and sustainable AI services. Please check my publication list for more details.
+My research primarily focuses on the security and quality assurance of intelligent software, with a particular emphasis on intelligent software engineering tools. I am best known for my contributions to [Devign](https://proceedings.neurips.cc/paper_files/paper/2019/file/49265d2447bc3bbfe9e76306ce40a31f-Paper.pdf), [BigCodeBench](https://bigcode-bench.github.io/), and [DeepStellar](https://dl.acm.org/doi/abs/10.1145/3338906.3338954). I am the recepient of [2024 Google Research Scholar Award](https://research.google/programs-and-events/research-scholar-program/recipients/) in Software Engineering, and my work has been recognized with ACM SIGSOFT Distinguished Paper Award and ICLR Oral Presentation.
+
 
 I am looking for self-motivated Ph.D. students with strong programming skills and relevant research experience. The position is sponsored by [full scholarships](https://www.monash.edu/it/research/graduate-research/scholarships-and-support/scholarships-and-applications). Please send me an email with your CV if you are interested. For Monash undergraduate and master students who wish to do honours or minor thesis with me, please check the [available projects](https://supervisorconnect.it.monash.edu/supervisors/xiaoning-du) and send me a copy of your transcript when expressing interest.
 
