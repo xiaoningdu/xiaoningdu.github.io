@@ -11,7 +11,7 @@ profile:
   more_info: > 
     <p>Room 214, 20 Exhibition Walk</p>
     <p>Clayton VIC 3800 Australia</p>
-#    <p>Your City, State 12345</p>
+    <p>xiaoning{dot}du{at}monash{dot}edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a lecturer (a.k.a. Assistant Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
+I am a Senior Lecturer (equivalent to U.S. Associate Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
 I obtained my Ph.D. degree from Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/), and received my Bachelor's degree from Fudan University.
 
 
