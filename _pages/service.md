@@ -9,7 +9,7 @@ nav: true
 #### Editorial Board
 * ACM Transactions on Software Engineering and Methodology (TOSEM), Associate Editor
 
-#### Journal article reviewer
+#### Journal Referee
 * IEEE Transactions on Software Engineering (TSE)
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
 * ACM Computing Surveys
