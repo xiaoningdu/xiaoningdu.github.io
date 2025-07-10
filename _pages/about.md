@@ -9,9 +9,10 @@ profile:
   image: my.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
+    <p>xiaoning{dot}du{at}monash{dot}edu</p>
     <p>Room 214, 20 Exhibition Walk</p>
     <p>Clayton VIC 3800 Australia</p>
-    <p>xiaoning{dot}du{at}monash{dot}edu</p>
+#    <p>xiaoning{dot}du{at}monash{dot}edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
