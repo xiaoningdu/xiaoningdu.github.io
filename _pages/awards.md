@@ -6,6 +6,8 @@ description:
 nav: true
 ---
 
+* 2026 ARC DECRA Fellowship
+* 2025 SSC Research Supervisor Award
 * Dean's Early Career Researcher of the Year Award, Faculty of Information Technology, Monash, 2024
 * ACM SIGSOFT Distinguished Paper Award at ISSTA 2024
 * Google Research Scholar Award, 2024

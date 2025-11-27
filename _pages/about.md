@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Senior Lecturer (equivalent to U.S. Associate Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
+I am an ARC DECRA Fellow and  Senior Lecturer (equivalent to U.S. Associate Professor) at the [Department of Software Systems and Cybersecurity](https://www.monash.edu/it/ssc) of the [Faculty of Information Technology, Monash University](https://www.monash.edu/it).
 I obtained my Ph.D. degree from Nanyang Technological University under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/), and received my Bachelor's degree from Fudan University.
 
 
