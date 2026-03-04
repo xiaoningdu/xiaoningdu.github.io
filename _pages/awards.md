@@ -6,6 +6,7 @@ description:
 nav: true
 ---
 
+* ACM SIGSOFT Distinguished Paper Award at ICSE 2026
 * 2026 ARC DECRA Fellowship
 * 2025 SSC Research Supervisor Award
 * Dean's Early Career Researcher of the Year Award, Faculty of Information Technology, Monash, 2024
