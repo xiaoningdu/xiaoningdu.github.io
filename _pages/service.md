@@ -9,6 +9,9 @@ nav: true
 #### Editorial Board
 * ACM Transactions on Software Engineering and Methodology (TOSEM), Associate Editor
 
+#### Community leadership
+* SIGSOFT ACM Digital Library liaison
+
 #### Journal Referee
 * IEEE Transactions on Software Engineering (TSE)
 * ACM Transactions on Software Engineering and Methodology (TOSEM)
@@ -21,6 +24,7 @@ nav: true
 
 
 #### Organization Committee
+* Program Committee Co-Chair of 17th International Conference on Internetware 2026
 * Proceeding Co-Chair of 34th the International Conference on the Foundations of Software Engineering (FSE) 2026
 * Software Engineering in Practice Track Co-Chair of the 32nd Asia-Pacific Software Engineering Conference (APSEC) 2025
 * Co-Chair of the 4th Workshop of Adversarial Machine Learning on Computer Vision: Robustness of Foundation Models co-located with CVPR 2024
