@@ -11,6 +11,11 @@ nav_order: 2
 Below are the selected publications, check my [Google Scholar](https://scholar.google.com.sg/citations?user=TtA9_B0AAAAJ&hl=en) for the full list.
 
 <!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
 {% bibliography %}
