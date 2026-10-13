@@ -24,6 +24,8 @@ nav: true
 
 
 #### Organization Committee
+* Area Chair of the 49th International Conference on Software Engineering (ICSE 2027) Shadow PC
+* Proceedings Co-Chair of the 35th International Conference on the Foundations of Software Engineering (FSE 2027)
 * Program Committee Co-Chair of 17th International Conference on Internetware 2026
 * Proceeding Co-Chair of 34th the International Conference on the Foundations of Software Engineering (FSE) 2026
 * Software Engineering in Practice Track Co-Chair of the 32nd Asia-Pacific Software Engineering Conference (APSEC) 2025
